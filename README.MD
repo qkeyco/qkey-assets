@@ -16,7 +16,7 @@ These assets are provided for official use in QKEY-related projects and applicat
 
 **Commercial License**
 
-Copyright (c) 2024 QKey Co. All rights reserved.
+Copyright (c) 2025 QKey Co. All rights reserved.
 
 This software and associated assets are proprietary and confidential. Unauthorized copying, distribution, modification, public display, or public performance of this software, via any medium, is strictly prohibited without the express written consent of QKey Co.
 
