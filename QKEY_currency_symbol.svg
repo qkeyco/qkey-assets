@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- purple‑to‑indigo gradient -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"  stop-color="#9F4CFF"/>
+      <stop offset="100%" stop-color="#1A36D9"/>
+    </linearGradient>
+    <style>
+      .coin    { fill:url(#grad); }
+      .qletter { fill:#FFFFFF; font-family: 'Inter', 'Arial', sans-serif; font-weight: 800; }
+      .key     { fill:#FFFFFF; }
+    </style>
+  </defs>
+
+  <!-- outer coin -->
+  <circle cx="400" cy="400" r="360" class="coin"/>
+
+  <!-- big Q (using text for clarity, centered) -->
+  <text x="400" y="445" font-size="430" text-anchor="middle" dominant-baseline="middle" class="qletter">Q</text>
+
+  <!-- key‑tick: 50° down‑right line with two teeth -->
+  <!-- shaft -->
+  <rect x="455" y="420" width="280" height="48" transform="rotate(50 455 420)" class="key"/>
+  <!-- tooth 1 -->
+  <rect x="430" y="420" width="48" height="48" transform="rotate(50 430 420)" class="key"/>
+  <!-- tooth 2 -->
+  <rect x="380" y="420" width="48" height="48" transform="rotate(50 380 420)" class="key"/>
+</svg>
