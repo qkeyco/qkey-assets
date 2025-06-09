@@ -20,6 +20,12 @@ Please refer to the project's main repository for licensing information.
 
 - [QKEY Main Project](https://github.com/qkeyco)
 
+## 📝 Intellectual Property
+
+**Trademarks:** QKEY, QKEY Protected, OPO, Open Price Offering are trademarks of QKey Co.
+
+**Patents:** Patent Pending.
+
 ---
 
 *For questions or support, please contact the QKEY development team.*
